@@ -1,0 +1,11 @@
+{
+  "notes": "Weaver 2026.1124.3",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSTlNNmhOOWxZazJsWHlMdElLQ21VV3ZGd3VIUHJiU3prSGF1KzZJM2JqZTY4ZTIvYVU3N05xTm1pdW81WXc2VUQveVd5a2ltU090T3pzQnZyT2xXcE1maHlIeVVmL1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTQ1OTg1CWZpbGU6V2VhdmVyXzIwMjYuMTEyNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyMDI2LjExMjQuMwpReFZ3NGFBSGxVTUF0UHoxcnh0V2lOdHI5dnYwQzV2Z1BnQWl1dlNscEhOcmN4MmJEb09STmRZalA2eUtJL01PRDZlSFdMajNMMVEyZEFXQUt5NzZBdz09Cg==",
+      "url": "https://github.com/lenardhuebner88-rgb/weaver-releases/releases/download/product-2026.1124.3/Weaver_2026.1124.3_x64-setup.exe"
+    }
+  },
+  "pub_date": "2026-11-24T18:46:57Z",
+  "version": "2026.1124.3"
+}
