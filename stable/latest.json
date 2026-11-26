@@ -1,11 +1,11 @@
 {
-  "notes": "Weaver 2026.1126.0",
+  "notes": "Weaver 2026.1126.1",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSTlNNmhOOWxZazJsempSeEVDNVZnOUQ2ZVdmZGN6NmVBY293eW43d0orcmJmVVhrSkFtS2ZwRkJnQUVYelhRQzFPbTd3a1plZ3RWNWF2VExHdTI5V3UzVUFqdGtleFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY3NDMwCWZpbGU6V2VhdmVyXzIwMjYuMTEyNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyMDI2LjExMjYuMApwZTF4TzAvWll1MW9URExHRlNXcklwbytmelA0OGNSRU5wbHlHR21jc3kzbkpqc3FKN1dwQjdwTS9uNGcydm4yRzE2dWt3Zm1nbk1HRFJuUHJXNUJCdz09Cg==",
-      "url": "https://github.com/lenardhuebner88-rgb/weaver-releases/releases/download/product-2026.1126.0/Weaver_2026.1126.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSTlNNmhOOWxZa3laRjJFWXB3bC9YUE5XMlpPVXcwVGlpMDJiV29nUUc5TlpGUXVMbHVmQlBkTGhScUh6eTExWGR3UGhWcDRwcFMxZnNrV0d1RWlrcEVKV2xFQ1BYQ1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk5ODk1CWZpbGU6V2VhdmVyXzIwMjYuMTEyNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyMDI2LjExMjYuMQo3OExoSDNYZXZxYytYYXNtNUs1NXVjNlY0aFVMOE82M0dXNnZhcS8vc2t2amIwQUVuRFFIeGViQ2l0OWZIYVlUTFVrSDlEc1dkTk1TbmtTL09uOGxCUT09Cg==",
+      "url": "https://github.com/lenardhuebner88-rgb/weaver-releases/releases/download/product-2026.1126.1/Weaver_2026.1126.1_x64-setup.exe"
     }
   },
-  "pub_date": "2026-11-26T04:31:02Z",
-  "version": "2026.1126.0"
+  "pub_date": "2026-11-26T13:32:03Z",
+  "version": "2026.1126.1"
 }
